@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Kanika Narang</title>
+    <link>https://kanika91.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Kanika Narang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kanika91.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Large-scale analysis of email search and organizational strategies</title>
+      <link>https://kanika91.github.io/publication/emaillog/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/emaillog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A blind user-centered navigation system with crowdsourced situation awareness.</title>
+      <link>https://kanika91.github.io/publication/cyber14/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/cyber14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topical discussions on unstructured microblogs: analysis from a geographical perspective</title>
+      <link>https://kanika91.github.io/publication/wise13/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/wise13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Assessment of Contemporary Online Media in Ad-Hoc Corpus Creation for Social Events.</title>
+      <link>https://kanika91.github.io/publication/ijcnlp13/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/ijcnlp13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network flows and the link prediction problem</title>
+      <link>https://kanika91.github.io/publication/kdd13/</link>
+      <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/kdd13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge analytics as service—A service oriented framework for real time and personalised recommendation analytics.</title>
+      <link>https://kanika91.github.io/publication/soli13/</link>
+      <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/soli13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://kanika91.github.io/publication_old/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://kanika91.github.io/publication_old/conference-paper/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+    </item>
+    
+    <item>
+      <title>Discovery and analysis of evolving topical social discussions on unstructured microblogs</title>
+      <link>https://kanika91.github.io/publication/ecir13/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/ecir13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On analysis of rural and urban Indian fingerprint images</title>
+      <link>https://kanika91.github.io/publication/iceb10/</link>
+      <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/iceb10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

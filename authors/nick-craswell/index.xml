@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick Craswell on Kanika Narang</title>
+    <link>https://kanika91.github.io/authors/nick-craswell/</link>
+    <description>Recent content in Nick Craswell on Kanika Narang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kanika91.github.io/authors/nick-craswell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Large-scale analysis of email search and organizational strategies</title>
+      <link>https://kanika91.github.io/publication/emaillog/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanika91.github.io/publication/emaillog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
